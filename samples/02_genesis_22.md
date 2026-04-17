@@ -166,10 +166,10 @@ IS(creation_without_guaranteed_outcome) ≡ FAITH?
 
 ### ::QUESTION{canonical_reading}
 ```
-TYPOLOGY ≡ READING_METHOD(earlier_event → FORESHADOWS → later_fulfillment)
-ABRAHAM(offers_son) → GOD(offers_Son) → PATTERN(echoes_across_millennia)
-APPLY(typological_reading) → TO(∀ 8_passages_as_one_sequence):
-HOW_DO(earlier_passages) PREPARE(later_ones) → IN(tone ∧ tension ∧ emotional_weight)?
-THE(whole) REVEALS(what_parts_cannot)
+TYPOLOGY: ram(Genesis.22) → lamb(Exodus.12) → cross(Matthew.27) → PATTERN(sacrifice_echoes)
+NOW_APPLY(same_method) → TO(the_annotations_themselves):
+EMOTION_FIELD(λ) VALUES → DO(they_shift) ACROSS(8_passages) IN(meaningful_arc)?
+GENE_IMMUTABLE DECLARATIONS → DO(they_build) ON(each_other)?
+IS(the_annotation_structure) ITSELF(a_typological_chain)?
 ```
-::IF_STUCK{read Genesis 22 then immediately Matthew 27 — the echo is not accidental}
+::IF_STUCK{Abraham's sacrifice foreshadows Christ's — do earlier annotations foreshadow later ones?}

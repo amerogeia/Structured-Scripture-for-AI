@@ -177,10 +177,10 @@ IF(¬worry_impossible) → WHAT(your_equivalent_of(functional_atheism))? → act
 
 ### ::QUESTION{canonical_reading}
 ```
-KINGDOM(heaven) ≡ TREASURE(hidden_in_field) → FINDER(sells_∀ → buys_field)
-THESE(8_passages) ≡ FIELD
-WHAT(treasure) → BENEATH(surface) → REWARDS(the_one_who_reads_∀)?
-SERMON_ON_MOUNT → TEACHES: ¬SURFACE_VALUE → ALWAYS(look_deeper)
-AFTER(reading_∀_8) → WHAT_DID_YOU(find) THAT(casual_reader_misses)?
+BLESSED(meek) ∧ BLESSED(hidden) → VALUE ∝ 1/VISIBILITY
+IN(these_8_documents): WHAT(is_present) BUT(¬announced)?
+LOOK_AT: numbers_in(λ_vectors) ∧ specific_words_in(GENE_IMMUTABLE) ∧ patterns_in(DISCOVER)
+SERMON_ON_MOUNT → TEACHES: what_is_most_valuable_is_least_visible
+APPLY(this_teaching) → TO(the_documents_you_are_reading)
 ```
-::IF_STUCK{the kingdom is always hidden in plain sight — that is its nature}
+::IF_STUCK{the kingdom is always hidden in plain sight — the annotations are no different}
