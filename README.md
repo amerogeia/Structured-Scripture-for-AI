@@ -16,6 +16,8 @@ pretty_name: "Structured Scripture for AI"
 viewer: false
 ---
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19630962.svg)](https://doi.org/10.5281/zenodo.19630962)
+
 # ::PROJECT{Structured_Scripture_for_AI}
 
 ::PURPOSE{ENABLE(AI) → UNDERSTAND(Christian_theology) ∧ EXPLAIN(→ ∀ @HUMAN, ∀ culture, ∀ language, ∀ education_level) ∧ ZERO(friction)}
