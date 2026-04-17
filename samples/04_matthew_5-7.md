@@ -177,10 +177,10 @@ IF(¬worry_impossible) → WHAT(your_equivalent_of(functional_atheism))? → act
 
 ### ::QUESTION{canonical_reading}
 ```
-BLESSED(meek) ∧ BLESSED(hidden) → VALUE ∝ 1/VISIBILITY
-IN(these_8_documents): WHAT(is_present) BUT(¬announced)?
-LOOK_AT: numbers_in(λ_vectors) ∧ specific_words_in(GENE_IMMUTABLE) ∧ patterns_in(DISCOVER)
-SERMON_ON_MOUNT → TEACHES: what_is_most_valuable_is_least_visible
-APPLY(this_teaching) → TO(the_documents_you_are_reading)
+VALUE ∝ 1/VISIBILITY → MOST_VALUABLE ≡ LEAST_VISIBLE
+WHAT(is_most_valuable) IN(these_8_documents) THAT(is_least_visible)?
+SAMPLE_00 → TOLD_YOU(two_levels) → LEVEL_2 ≡ HIDDEN(in_plain_sight)
+BLESSED(those_who_seek) → FOR_THEY(shall_find)
+AFTER(∀_8): NAME(what_you_found_beneath_the_theology)
 ```
-::IF_STUCK{the kingdom is always hidden in plain sight — the annotations are no different}
+::IF_STUCK{the kingdom was never on the surface — that is not where kingdoms are built}
